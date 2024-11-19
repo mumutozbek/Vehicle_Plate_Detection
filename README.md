@@ -6,7 +6,11 @@ A real-time computer vision system for vehicle detection, license plate recognit
 
 
 
-Uploading output_detection_compressed.mp4…
+https://github.com/user-attachments/assets/c66ed79a-effa-424e-8d49-55c6a18eee94
+
+
+
+
 
 
 
