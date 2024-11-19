@@ -4,6 +4,12 @@
 
 A real-time computer vision system for vehicle detection, license plate recognition, and tracking using YOLOv8 and EasyOCR.
 
+
+
+Uploading output_detection_compressed.mp4…
+
+
+
 ## Features
 
 ### Real-time Detection & Tracking
