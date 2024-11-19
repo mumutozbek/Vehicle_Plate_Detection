@@ -48,8 +48,8 @@ https://github.com/user-attachments/assets/c66ed79a-effa-424e-8d49-55c6a18eee94
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/license-plate-detection.git
-cd license-plate-detection
+git clone https://github.com/mumutozbek/Vehicle_Plate_Detection.git
+cd Vehicle_Plate_Detection
 ```
 
 ### Create and activate virtual environment:
